@@ -43,7 +43,7 @@
     "fint-get-token": "1.0.3",
     "next": "5.0.0",
     "react": "16.2.0",
-    "react-dom": "16.2.0",
+    "react-dom": "16.3.0",
     "react-json-view": "1.16.1"
   },
   "devDependencies": {
