@@ -42,7 +42,7 @@
     "check-valid-url": "0.0.2",
     "fint-get-token": "1.0.3",
     "next": "5.1.0",
-    "react": "16.3.1",
+    "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-json-view": "1.16.1"
   },
