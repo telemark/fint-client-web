@@ -40,7 +40,7 @@
   "dependencies": {
     "axios": "0.18.0",
     "check-valid-url": "0.0.2",
-    "fint-get-token": "1.0.3",
+    "fint-get-token": "1.0.4",
     "next": "6.0.0",
     "react": "16.3.2",
     "react-dom": "16.3.2",
