@@ -44,7 +44,7 @@
     "next": "6.0.3",
     "react": "16.4.0",
     "react-dom": "16.4.0",
-    "react-json-view": "1.16.6"
+    "react-json-view": "1.17.0"
   },
   "devDependencies": {
     "ava": "0.25.0",
