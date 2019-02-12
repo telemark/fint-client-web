@@ -25,7 +25,7 @@ export default class extends Component {
       this.setState({ loading: true, error: false })
       try {
         const result = await getData(value, this.props.token, this.props.orgId)
-        const { pathname } = new window.URL(value)
+        const { pathname } = new window.URL(value)
         this.setState({ jsonData: result, loading: false })
         window.history.pushState(pathname, pathname, pathname)
         // Router.push('/', pathname, { shallow: true })
@@ -45,8 +45,8 @@ export default class extends Component {
           this.state.loading
             ? 'Loading ...'
             : this.state.error
-            ? <div>{this.state.error}</div>
-            : <ReactJson
+              ? <div>{this.state.error}</div>
+              : <ReactJson
                 src={this.state.jsonData}
                 name={false}
                 enableClipboard={false}

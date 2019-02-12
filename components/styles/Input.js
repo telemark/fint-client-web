@@ -10,7 +10,7 @@ exports.Input = props => {
     autoFocus: props.autoFocus || false
   }
   return (
-    <div style={{width: '100%'}}>
+    <div style={{ width: '100%' }}>
       <input {...propTypes} required />
       <style jsx>
         {`
