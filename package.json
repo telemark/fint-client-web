@@ -56,5 +56,8 @@
   "now": {
     "name": "fint-client-web",
     "alias": "fint-client-web.t-fk.no"
+  },
+  "engines": {
+    "node": ">=10.15.1"
   }
 }
