@@ -2,7 +2,7 @@ const test = require('ava')
 const pkg = require('../package.json')
 const dependencies = pkg.dependencies || {}
 const devDependencies = pkg.devDependencies || {}
-const dropModules = ['nsp']
+const dropModules = ['react-json-view']
 const isDropped = module => !dropModules.includes(module)
 
 Object.keys(dependencies).forEach(dependency => {
