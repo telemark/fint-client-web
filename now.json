@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fint-client-web",
+  "alias": [
+    "fint-client-web.t-fk.no"
+  ],
+  "builds": [
+    { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "out" }}
+  ]
+}
