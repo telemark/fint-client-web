@@ -44,8 +44,8 @@
     "check-valid-url": "0.0.2",
     "fint-get-token": "1.0.5",
     "next": "8.0.3",
-    "react": "16.8.3",
-    "react-dom": "16.8.3",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
     "react-json-view": "1.19.1"
   },
   "devDependencies": {
