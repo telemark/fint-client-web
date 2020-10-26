@@ -40,7 +40,7 @@
     "url": "https://github.com/telemark/fint-client-web/issues"
   },
   "dependencies": {
-    "axios": "0.19.0",
+    "axios": "0.21.0",
     "check-valid-url": "0.0.2",
     "fint-get-token": "1.0.5",
     "next": "8.1.0",
